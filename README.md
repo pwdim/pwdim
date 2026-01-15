@@ -22,7 +22,7 @@
 
 ## 👨‍💻 Professional Summary & Focus
 
-I am **@pwdim**, a highly motivated student currently enrolled in the **Interdisciplinary Bachelor of Science and Technology (BICT)** at **UFMA**. This program provides a strong engineering and scientific foundation, which fuels my deep interest in software development.
+I am @pwdim, a highly motivated student currently enrolled in the Interdisciplinary Bachelor's Degree in Science and Technology (BICT) at UFMA. The repositories available on this profile represent the evolution of my learning in related areas.
 
 ### 🎯 Current Career Focus
 
