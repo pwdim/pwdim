@@ -24,14 +24,12 @@
 
 I am **@pwdim**, a highly motivated student currently enrolled in the **Interdisciplinary Bachelor of Science and Technology (BICT)** at **UFMA**. This program provides a strong engineering and scientific foundation, which fuels my deep interest in software development.
 
-Although my core academic focus is broad, I am proactively specializing in backend systems.
-
 ### 🎯 Current Career Focus
 
 My immediate goal is to master server-side development, focusing on enterprise solutions and robust APIs.
 
-* **Primary Focus:** **Java** and **Spring Boot** for creating high-performance, scalable backend services.
-* **Database:** Proficient in **MongoDB** for NoSQL data management.
+* **Primary Focus:** **Java** (Spring Boot) and **Python** for creating high-performance, scalable backend services.
+* **Database:** Proficient in **MongoDB** (NoSQL), **MySQL**, and **MariaDB** (Relational).
 * **Frontend Interest:** Leveraging **React** fundamentals for full-stack perspective.
 
 ---
@@ -48,12 +46,12 @@ My immediate goal is to master server-side development, focusing on enterprise s
   <tr>
     <td align="center">
         <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
         <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
     </td>
     <td align="center">
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+        <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg" alt="MariaDB" width="40" height="40"/></a>
     </td>
     <td align="center">
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
