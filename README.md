@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm pwdim</h1>
-<h3 align="center">Aspiring Backend / Full-Stack Developer | BICT Student at UFMA</h3>
 
 <p align="center">
     <a href="https://pwdim.com" target="_blank">
@@ -17,22 +16,6 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=pwdim&theme=algolia" alt="" style="margin-bottom: 20px;" />
 </p>
-
----
-
-## 👨‍💻 Professional Summary & Focus
-
-I am @pwdim, a highly motivated student currently enrolled in the Interdisciplinary Bachelor's Degree in Science and Technology (BICT) at UFMA. The repositories available on this profile represent the evolution of my learning in related areas.
-
-### 🎯 Current Career Focus
-
-My immediate goal is to master server-side development, focusing on enterprise solutions and robust APIs.
-
-* **Primary Focus:** **Java** (Spring Boot) and **Python** for creating high-performance, scalable backend services.
-* **Database:** Proficient in **MongoDB** (NoSQL), **MySQL**, and **MariaDB** (Relational).
-* **Frontend Interest:** Leveraging **React** fundamentals for full-stack perspective.
-
----
 
 ### 🛠️ Core Technical Skills (Backend & Tools)
 
