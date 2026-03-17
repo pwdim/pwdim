@@ -46,3 +46,8 @@
     <img src="https://github-readme-stats-eta-sage-69.vercel.app/api/top-langs?username=pwdim&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" width="48%" style="margin-right: 1%;" />
     <img src="https://github-readme-stats-eta-sage-69.vercel.app/api?username=pwdim&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="48%" style="margin-left: 1%;" />
 </p>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=pwdim&theme=algolia" alt="" style="margin-bottom: 20px;" />
+</p>
+
