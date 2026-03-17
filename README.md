@@ -13,10 +13,6 @@
     <img src="https://lanyard.cnrad.dev/api/386563422055170048" alt="Discord Status" style="margin-bottom: 10px;" />
 </p>
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=pwdim&theme=algolia" alt="" style="margin-bottom: 20px;" />
-</p>
-
 <table align="center">
   <tr>
     <td align="center"><h4>Backend / Runtime</h4></td>
